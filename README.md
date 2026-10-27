@@ -198,7 +198,7 @@ The same months by device:
 
 - **There is no revenue or order value.** I sized impact in purchases, not money.
 - **Dates are first-visit dates,** so months are cohorts, not purchase dates.
-- **The analysis shows where users drop off, not why.** The March break and the Desktop gap need a human investigation to find causes.
+- **The analysis shows where users drop off, not why.** The March break and the Desktop gap need an investigation to find causes.
 - **The data looks simulated.** The exact 50.00% Home to Search rate and round segment sizes suggest it, so I treat this as a funnel-analysis exercise and not the performance of a real company.
 - **Several statistical comparisons were made on gender,** so borderline p-values should be read cautiously.
 
