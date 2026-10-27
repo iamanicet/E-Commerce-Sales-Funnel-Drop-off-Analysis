@@ -1,0 +1,3 @@
+gender,users,search_users,payment_users,purchases,home_to_search_pct,search_to_payment_pct,payment_to_confirm_pct,overall_conversion_pct,traffic_share_pct,purchase_share_pct
+Female,45075,22676,3100,241,50.31,13.67,7.77,0.53,49.86,53.32
+Male,45325,22524,2930,211,49.69,13.01,7.20,0.47,50.14,46.68

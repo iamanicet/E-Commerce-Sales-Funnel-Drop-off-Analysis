@@ -1,0 +1,5 @@
+scenario,desktop_purchases,gain
+"Current Desktop purchases",150,0
+"Search -> Payment matches Mobile",300,150
+"Payment -> Confirmation matches Mobile",301,151
+"Both stages match Mobile",602,452

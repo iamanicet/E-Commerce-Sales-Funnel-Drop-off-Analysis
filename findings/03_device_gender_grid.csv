@@ -1,0 +1,5 @@
+device,gender,users,search_users,payment_users,purchases,home_to_search_pct,search_to_payment_pct,payment_to_confirm_pct,overall_conversion_pct
+Desktop,Female,29997,15091,1530,74,50.31,10.14,4.84,0.25
+Desktop,Male,30203,15009,1480,76,49.69,9.86,5.14,0.25
+Mobile,Female,15078,7585,1570,167,50.31,20.70,10.64,1.11
+Mobile,Male,15122,7515,1450,135,49.70,19.29,9.31,0.89

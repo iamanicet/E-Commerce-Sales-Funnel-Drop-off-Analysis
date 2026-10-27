@@ -1,0 +1,5 @@
+cohort_month,users,search_users,payment_users,purchases,home_to_search_pct,search_to_payment_pct,payment_to_confirm_pct,overall_conversion_pct,mom_change_pp
+2015-01,22600,13554,2390,189,59.97,17.63,7.91,0.84,NULL
+2015-02,22600,13687,2412,173,60.56,17.62,7.17,0.77,-0.07
+2015-03,22600,8879,631,44,39.29,7.11,6.97,0.19,-0.57
+2015-04,22600,9080,597,46,40.18,6.57,7.71,0.20,0.01
